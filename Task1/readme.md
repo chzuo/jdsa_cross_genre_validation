@@ -1,4 +1,5 @@
-# Format
+# Dataset
+- For dataset related to task 1, see [Data](Data/)
 The dataset uses the column format: 
 - The first column is the word itself.
 - The second column coarse hyperlink tags. Tag *I* means the word is within the hyperlink text. 
