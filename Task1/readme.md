@@ -8,7 +8,7 @@ The dataset uses the column format:
 
 Empty line separates sentences.  
 
-(All numbers are replaced with the token *<NUM>*)
+(All numbers are replaced with the token *\<NUM\>*)
 
 See for instance this sentence:
 ```
