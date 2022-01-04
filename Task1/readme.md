@@ -1,11 +1,14 @@
 # Dataset
-For dataset related to task 1, see [Data](Data/).
+For dataset related to task 1, see [Data](Data/).  
+
 The dataset uses the column format: 
 - The first column is the word itself.
 - The second column coarse hyperlink tags. Tag *I* means the word is within the hyperlink text. 
 - The third column uses BIO-annotated tags. Tag *B-CHE* means the word is the beginning of the check-worthy claim, and *I-CHE* means the word is within the check-worthy claim.
-Empty line separates sentences.
-(All numbers are replaced with the token <NUM>)
+
+Empty line separates sentences.  
+
+(All numbers are replaced with the token *<NUM>*)
 
 See for instance this sentence:
 ```
