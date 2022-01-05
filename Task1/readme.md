@@ -33,3 +33,6 @@ average	O	I-CHE
 penis	O	I-CHE
 .	O	O
 ```
+
+# Code
+Please run *train_test.py'* for the experiment.
